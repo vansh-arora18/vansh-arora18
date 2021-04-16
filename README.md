@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: The first computer virus was created in 1983
 
-<img src="" />
+<img src="https://github.com/vansh-arora18/vansh-arora18/blob/main/strategy.png" />
