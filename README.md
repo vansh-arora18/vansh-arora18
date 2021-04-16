@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
  🔭 Currently working on ML/DL/NLP Projects...
  
- <img align = "right" width = "150%" height = "200%" src="https://github.com/vansh-arora18/vansh-arora18/blob/main/strategy.png" />
+ <img align = "right" width = "50%" height = "200%" src="https://github.com/vansh-arora18/vansh-arora18/blob/main/strategy.png" />
  
 🌱 Currently learning Cloud Computing...
 
