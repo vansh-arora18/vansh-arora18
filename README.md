@@ -5,11 +5,19 @@ Student with Passionate about new technologies and AI. Always open for tech talk
 Here are some ideas to get you started:
 
  🔭 Currently working on ML/DL/NLP Projects...
+ 
 🌱 Currently learning Cloud Computing...
+
 👯 Looking to collaborate with passionate programmers..
+
 🤔 Looking for help with Computer vision...
+
 💻 Languages : Python,C,C++,html,Javascript...
+
 📫 How to reach me: notsocoolvy@gmail.com
+
 😄 Pronouns: he/him...
+
 🔭 Wannabegeeks Owner...
+
 ⚡ Fun fact: The first computer virus was created in 1983
